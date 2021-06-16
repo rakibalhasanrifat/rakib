@@ -1,0 +1,627 @@
+# Solonick.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: includes/solonick-options.php:150 includes/solonick-options.php:152
+#: includes/solonick-options.php:156 includes/solonick-options.php:205
+#: includes/solonick-options.php:214 includes/solonick-options.php:229
+
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-18 11:12+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:16 archive.php:18 category.php:18 index.php:18 music.php:22
+#: one-page.php:18 search.php:18 service.php:20 single-music.php:17
+#: single-team.php:18 tag.php:18 taxonomy-portfolio_category.php:17
+#: taxonomy-service_category.php:18 taxonomy-team_category.php:17
+#: includes/solonick-options.php:778 template-parts/blog/blog-left.php:42
+#: template-parts/blog/blog-right.php:42
+#: template-parts/index-details/left.php:18
+#: template-parts/index-details/right.php:18
+#: template-parts/page/default.php:15 template-parts/page/left.php:42
+#: template-parts/page/right.php:42
+#: template-parts/page/solonick-element.php:15
+#: template-parts/portfolio/boxed-2.php:16
+#: template-parts/portfolio/boxed.php:16 template-parts/portfolio/list.php:15
+#: template-parts/portfolio/masonry-2.php:16
+#: template-parts/portfolio/masonry.php:16
+#: template-parts/portfolio/parallax-dark.php:15
+#: template-parts/portfolio/parallax.php:15
+#: template-parts/portfolio-details/carousel.php:16
+#: template-parts/portfolio-details/carousel2.php:16
+#: template-parts/portfolio-details/fullscreen-slider.php:16
+#: template-parts/portfolio-details/gallery.php:16
+#: template-parts/portfolio-details/gallery2.php:16
+#: template-parts/portfolio-details/mp4.php:16
+#: template-parts/portfolio-details/showcase.php:16
+#: template-parts/portfolio-details/slider.php:16
+#: template-parts/portfolio-details/vimeo.php:16
+#: template-parts/portfolio-details/youtube.php:16
+#: woocommerce/archive-product.php:48
+#: woocommerce/content-single-product.php:45
+msgid "Scroll Down"
+msgstr ""
+
+#: 404.php:19 music.php:28 service.php:26 single-music.php:23
+#: single-team.php:24 taxonomy-portfolio_category.php:23
+#: taxonomy-service_category.php:24 taxonomy-team_category.php:23
+#: includes/solonick-options.php:785 template-parts/page/default.php:21
+#: template-parts/page/left.php:48 template-parts/page/right.php:48
+#: template-parts/page/solonick-element.php:21
+#: template-parts/portfolio/boxed-2.php:22
+#: template-parts/portfolio/boxed.php:22 template-parts/portfolio/list.php:21
+#: template-parts/portfolio/masonry-2.php:22
+#: template-parts/portfolio/masonry.php:22
+#: template-parts/portfolio/parallax-dark.php:21
+#: template-parts/portfolio/parallax.php:21
+#: template-parts/portfolio-details/carousel.php:22
+#: template-parts/portfolio-details/carousel2.php:22
+#: template-parts/portfolio-details/fullscreen-slider.php:22
+#: template-parts/portfolio-details/gallery.php:22
+#: template-parts/portfolio-details/gallery2.php:22
+#: template-parts/portfolio-details/mp4.php:22
+#: template-parts/portfolio-details/showcase.php:22
+#: template-parts/portfolio-details/slider.php:22
+#: template-parts/portfolio-details/vimeo.php:22
+#: template-parts/portfolio-details/youtube.php:22
+#: woocommerce/archive-product.php:50
+#: woocommerce/content-single-product.php:51
+msgid "Back to home"
+msgstr ""
+
+#: 404.php:27
+msgid "404"
+msgstr ""
+
+#: 404.php:28
+msgid "We"
+msgstr ""
+
+#: 404.php:28
+msgid "re sorry, but the Page you were looking for, couldn"
+msgstr ""
+
+#: 404.php:28
+msgid "t be found."
+msgstr ""
+
+#: 404.php:31
+msgid "Search.."
+msgstr ""
+
+#: 404.php:35
+msgid "Or"
+msgstr ""
+
+#: 404.php:36
+msgid "Back to Home Page"
+msgstr ""
+
+#: 404.php:55
+msgid "Our Portfolio"
+msgstr ""
+
+#: archive.php:26 category.php:26 index.php:26 search.php:26 tag.php:26
+#: includes/solonick-options.php:799 template-parts/blog/blog-left.php:50
+#: template-parts/blog/blog-right.php:50
+#: template-parts/index-details/left.php:45
+#: template-parts/index-details/right.php:45
+msgid "Search..."
+msgstr ""
+
+#: coming-soon.php:23
+msgid "days"
+msgstr ""
+
+#: coming-soon.php:27
+msgid "hours "
+msgstr ""
+
+#: coming-soon.php:31
+msgid "minutes "
+msgstr ""
+
+#: coming-soon.php:35
+msgid "seconds "
+msgstr ""
+
+#: comments.php:17
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:22
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:57
+msgid "Your Name*"
+msgstr ""
+
+#: comments.php:62
+msgid "Your Email*"
+msgstr ""
+
+#: comments.php:70
+msgid "Your Comment*"
+msgstr ""
+
+#: comments.php:73
+msgid "Leave a"
+msgstr ""
+
+#: comments.php:73
+msgid "Reply"
+msgstr ""
+
+#: footer.php:54
+msgid "Phone :"
+msgstr ""
+
+#: footer.php:57
+msgid "Email :"
+msgstr ""
+
+#: footer.php:60 includes/solonick-options.php:1143
+msgid "Address"
+msgstr ""
+
+#: footer.php:158
+msgid "Get in Touch"
+msgstr ""
+
+#: footer.php:172
+msgid "Share"
+msgstr ""
+
+#: footer.php:180
+msgid "Close"
+msgstr ""
+
+#: functions.php:102
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: index.php:36
+msgid "Blog"
+msgstr ""
+
+#: music.php:66 template-parts/portfolio/boxed-2.php:62
+#: template-parts/portfolio/boxed.php:62
+msgid "Filter : "
+msgstr ""
+
+#: music.php:68 template-parts/portfolio/boxed-2.php:64
+#: template-parts/portfolio/boxed.php:64
+#: template-parts/portfolio/masonry-2.php:33
+#: template-parts/portfolio/masonry.php:33
+msgid "All"
+msgstr ""
+
+#: music.php:122
+msgid "Buy"
+msgstr ""
+
+#: search.php:36
+#, php-format
+msgid "Results for : \"%s\""
+msgstr ""
+
+#: search.php:49 template-parts/blog/blog-left.php:77
+#: template-parts/blog/blog-right.php:77 template-parts/index/blog-left.php:12
+#: template-parts/index/blog-right.php:12
+#: template-parts/index-details/left.php:66
+#: template-parts/index-details/right.php:66
+#: template-parts/portfolio/parallax-dark.php:113
+#: template-parts/portfolio/parallax-dark.php:211
+#: template-parts/portfolio/parallax.php:138
+#: template-parts/portfolio/parallax.php:236
+#: template-parts/portfolio-details/carousel.php:107
+#: template-parts/portfolio-details/carousel2.php:96
+#: template-parts/portfolio-details/fullscreen-slider.php:113
+#: template-parts/portfolio-details/gallery.php:123
+#: template-parts/portfolio-details/gallery2.php:89
+#: template-parts/portfolio-details/mp4.php:93
+#: template-parts/portfolio-details/showcase.php:89
+#: template-parts/portfolio-details/slider.php:91
+#: template-parts/portfolio-details/vimeo.php:91
+#: template-parts/portfolio-details/youtube.php:91
+msgid "Category : "
+msgstr ""
+
+#: search.php:62 template-parts/blog/blog-left.php:90
+#: template-parts/blog/blog-right.php:90 template-parts/index/blog-left.php:25
+#: template-parts/index/blog-right.php:25
+#: template-parts/index-details/left.php:79
+#: template-parts/index-details/right.php:79
+msgid "Tags : "
+msgstr ""
+
+#: search.php:76 template-parts/blog/blog-left.php:104
+#: template-parts/blog/blog-right.php:104
+#: template-parts/index/blog-left.php:39
+#: template-parts/index/blog-right.php:39
+msgid "Read more "
+msgstr ""
+
+#: search.php:93
+msgid "No Posts Found"
+msgstr ""
+
+#: service.php:85 taxonomy-portfolio_category.php:63
+#: taxonomy-service_category.php:73 template-parts/intro/full-carousel.php:35
+#: template-parts/portfolio/list.php:63
+#: template-parts/portfolio/parallax-dark.php:144
+#: template-parts/portfolio/parallax.php:169
+msgid "0"
+msgstr ""
+
+#: single-music.php:46 single-team.php:48 taxonomy-team_category.php:37
+#: template-parts/blog/blog-left.php:26 template-parts/blog/blog-right.php:26
+#: template-parts/page/default.php:44 template-parts/page/left.php:26
+#: template-parts/page/right.php:26
+#: template-parts/page/solonick-element.php:44
+#: template-parts/portfolio/boxed-2.php:46
+#: template-parts/portfolio/boxed.php:46
+#: template-parts/portfolio/parallax.php:45
+#: template-parts/portfolio-details/gallery.php:46
+#: template-parts/portfolio-details/gallery2.php:46
+#: template-parts/portfolio-details/showcase.php:46
+#: template-parts/portfolio-details/slider.php:48
+#: woocommerce/archive-product.php:100
+#: woocommerce/content-single-product.php:76
+msgid "Let"
+msgstr ""
+
+#: single-music.php:46 single-team.php:48 taxonomy-team_category.php:37
+#: template-parts/blog/blog-left.php:26 template-parts/blog/blog-right.php:26
+#: template-parts/page/default.php:44 template-parts/page/left.php:26
+#: template-parts/page/right.php:26
+#: template-parts/page/solonick-element.php:44
+#: template-parts/portfolio/boxed-2.php:46
+#: template-parts/portfolio/boxed.php:46
+#: template-parts/portfolio/parallax.php:45
+#: template-parts/portfolio-details/gallery.php:46
+#: template-parts/portfolio-details/gallery2.php:46
+#: template-parts/portfolio-details/showcase.php:46
+#: template-parts/portfolio-details/slider.php:48
+#: woocommerce/archive-product.php:100
+#: woocommerce/content-single-product.php:76
+msgid "s Start "
+msgstr ""
+
+#: single-music.php:85
+msgid "Available on : "
+msgstr ""
+
+#: single-music.php:162 single-team.php:129
+#: template-parts/index-details/left.php:176
+#: template-parts/index-details/right.php:178
+#: template-parts/portfolio-details/carousel.php:207
+#: template-parts/portfolio-details/carousel2.php:196
+#: template-parts/portfolio-details/fullscreen-slider.php:213
+#: template-parts/portfolio-details/gallery.php:223
+#: template-parts/portfolio-details/gallery2.php:214
+#: template-parts/portfolio-details/mp4.php:203
+#: template-parts/portfolio-details/showcase.php:207
+#: template-parts/portfolio-details/slider.php:210
+#: template-parts/portfolio-details/vimeo.php:201
+#: template-parts/portfolio-details/youtube.php:201
+#: woocommerce/content-single-product.php:158
+msgid "Prev - "
+msgstr ""
+
+#: single-music.php:165 single-music.php:188 single-team.php:132
+#: single-team.php:155 template-parts/index-details/left.php:179
+#: template-parts/index-details/left.php:202
+#: template-parts/index-details/right.php:181
+#: template-parts/index-details/right.php:204
+#: template-parts/portfolio-details/carousel.php:210
+#: template-parts/portfolio-details/carousel.php:233
+#: template-parts/portfolio-details/carousel2.php:199
+#: template-parts/portfolio-details/carousel2.php:222
+#: template-parts/portfolio-details/fullscreen-slider.php:216
+#: template-parts/portfolio-details/fullscreen-slider.php:239
+#: template-parts/portfolio-details/gallery.php:226
+#: template-parts/portfolio-details/gallery.php:249
+#: template-parts/portfolio-details/gallery2.php:217
+#: template-parts/portfolio-details/gallery2.php:240
+#: template-parts/portfolio-details/mp4.php:206
+#: template-parts/portfolio-details/mp4.php:229
+#: template-parts/portfolio-details/showcase.php:210
+#: template-parts/portfolio-details/showcase.php:233
+#: template-parts/portfolio-details/slider.php:213
+#: template-parts/portfolio-details/slider.php:236
+#: template-parts/portfolio-details/vimeo.php:204
+#: template-parts/portfolio-details/vimeo.php:227
+#: template-parts/portfolio-details/youtube.php:204
+#: template-parts/portfolio-details/youtube.php:227
+msgid "Back To List"
+msgstr ""
+
+#: single-music.php:167 single-music.php:190 single-team.php:134
+#: single-team.php:157 template-parts/index-details/left.php:181
+#: template-parts/index-details/left.php:204
+#: template-parts/index-details/right.php:183
+#: template-parts/index-details/right.php:206
+#: template-parts/portfolio-details/carousel.php:212
+#: template-parts/portfolio-details/carousel.php:235
+#: template-parts/portfolio-details/carousel2.php:201
+#: template-parts/portfolio-details/carousel2.php:224
+#: template-parts/portfolio-details/fullscreen-slider.php:218
+#: template-parts/portfolio-details/fullscreen-slider.php:241
+#: template-parts/portfolio-details/gallery.php:228
+#: template-parts/portfolio-details/gallery.php:251
+#: template-parts/portfolio-details/gallery2.php:219
+#: template-parts/portfolio-details/gallery2.php:242
+#: template-parts/portfolio-details/mp4.php:208
+#: template-parts/portfolio-details/mp4.php:231
+#: template-parts/portfolio-details/showcase.php:212
+#: template-parts/portfolio-details/showcase.php:235
+#: template-parts/portfolio-details/slider.php:215
+#: template-parts/portfolio-details/slider.php:238
+#: template-parts/portfolio-details/vimeo.php:206
+#: template-parts/portfolio-details/vimeo.php:229
+#: template-parts/portfolio-details/youtube.php:206
+#: template-parts/portfolio-details/youtube.php:229
+msgid "Back To Home Page"
+msgstr ""
+
+#: single-music.php:173
+msgid "All Albums"
+msgstr ""
+
+#: single-music.php:185 single-team.php:152
+#: template-parts/index-details/left.php:199
+#: template-parts/index-details/right.php:201
+#: template-parts/portfolio-details/carousel.php:230
+#: template-parts/portfolio-details/carousel2.php:219
+#: template-parts/portfolio-details/fullscreen-slider.php:236
+#: template-parts/portfolio-details/gallery.php:246
+#: template-parts/portfolio-details/gallery2.php:237
+#: template-parts/portfolio-details/mp4.php:226
+#: template-parts/portfolio-details/showcase.php:230
+#: template-parts/portfolio-details/slider.php:233
+#: template-parts/portfolio-details/vimeo.php:224
+#: template-parts/portfolio-details/youtube.php:224
+#: woocommerce/content-single-product.php:177
+msgid "Next - "
+msgstr ""
+
+#: single-team.php:78
+msgid "Skills"
+msgstr ""
+
+#: single-team.php:100
+msgid "Follow : "
+msgstr ""
+
+#: single-team.php:140
+msgid "All Members"
+msgstr ""
+
+#: taxonomy-team_category.php:58
+msgid "Deatils"
+msgstr ""
+
+
+#: includes/solonick-options.php:263 includes/solonick-options.php:299
+#: template-parts/intro/full-carousel.php:35
+#: template-parts/portfolio/parallax-dark.php:144
+#: template-parts/portfolio/parallax.php:169
+msgid "."
+msgstr ""
+
+
+
+#: includes/solonick-options.php:771 template-parts/main-header.php:90
+msgid "Close Menu"
+msgstr ""
+
+#: template-parts/main-header.php:77
+msgid "Share This"
+msgstr ""
+
+#: template-parts/main-header.php:110
+msgid "Menu"
+msgstr ""
+
+#: template-parts/index-details/left.php:26
+#: template-parts/index-details/right.php:26
+msgid "Tags "
+msgstr ""
+
+#: template-parts/index-details/left.php:36
+#: template-parts/index-details/right.php:36
+msgid "Categories "
+msgstr ""
+
+#: template-parts/index-details/left.php:187
+#: template-parts/index-details/right.php:189
+msgid "All Posts"
+msgstr ""
+
+#: template-parts/intro/full-carousel.php:33
+msgid "View Project"
+msgstr ""
+
+#: template-parts/portfolio/boxed-2.php:53
+#: template-parts/portfolio/boxed.php:53
+#: template-parts/portfolio/parallax-dark.php:27
+#: template-parts/portfolio/parallax.php:52
+msgid "//"
+msgstr ""
+
+#: template-parts/portfolio/masonry-2.php:31
+#: template-parts/portfolio/masonry.php:31
+msgid "Portfolio Filter"
+msgstr ""
+
+#: template-parts/portfolio/parallax-dark.php:123
+#: template-parts/portfolio/parallax-dark.php:221
+#: template-parts/portfolio/parallax.php:148
+#: template-parts/portfolio/parallax.php:246
+msgid "View project"
+msgstr ""
+
+#: template-parts/portfolio/parallax-dark.php:242
+#: template-parts/portfolio/parallax.php:267
+msgid ".0"
+msgstr ""
+
+#: template-parts/portfolio-details/carousel.php:52
+msgid "Info"
+msgstr ""
+
+#: template-parts/portfolio-details/carousel.php:84
+#: template-parts/portfolio-details/carousel2.php:73
+#: template-parts/portfolio-details/fullscreen-slider.php:90
+#: template-parts/portfolio-details/gallery.php:100
+#: template-parts/portfolio-details/gallery2.php:66
+#: template-parts/portfolio-details/mp4.php:70
+#: template-parts/portfolio-details/showcase.php:66
+#: template-parts/portfolio-details/slider.php:68
+#: template-parts/portfolio-details/vimeo.php:68
+#: template-parts/portfolio-details/youtube.php:68
+msgid "01."
+msgstr ""
+
+#: template-parts/portfolio-details/carousel.php:218
+#: template-parts/portfolio-details/carousel2.php:207
+#: template-parts/portfolio-details/fullscreen-slider.php:224
+#: template-parts/portfolio-details/gallery.php:234
+#: template-parts/portfolio-details/gallery2.php:225
+#: template-parts/portfolio-details/mp4.php:214
+#: template-parts/portfolio-details/showcase.php:218
+#: template-parts/portfolio-details/slider.php:221
+#: template-parts/portfolio-details/vimeo.php:212
+#: template-parts/portfolio-details/youtube.php:212
+msgid "All Projects"
+msgstr ""
+
+#: template-parts/portfolio-details/mp4.php:50
+#: template-parts/portfolio-details/vimeo.php:48
+#: template-parts/portfolio-details/youtube.php:48
+msgid "Details"
+msgstr ""
+
+#: woocommerce/content-single-product.php:160
+#: woocommerce/content-single-product.php:179
+msgid "Back To Shop"
+msgstr ""
+
+#: woocommerce/content-single-product.php:165
+msgid "All Product"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:111
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:24
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:28
+msgid "Sale!"
+msgstr ""

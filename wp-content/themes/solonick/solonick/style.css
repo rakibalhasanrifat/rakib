@@ -1,0 +1,69 @@
+/*Theme Name: Solonick
+Theme URI: http://themeforest.net/themes/solonick
+Description: A 'Solonick – Creative Responsive Architecture Portfolio WordPress Theme' is perfect if you like a clean and modern design. This theme is ideal for architects, furniture designers, photographers, and those who need an easy, attractive and effective way to share their work with clients.
+Version: 4.2
+Author: webRedox WordPress team
+Author URI: http://webredox.net/
+
+License:
+License URI:
+Tags: two-columns, custom-background, custom-colors, featured-images, theme-options
+Text Domain: solonick
+*/
+
+.wp-caption{
+margin-bottom: 1.75em;
+max-width: 100%;
+}
+.wp-caption-text{
+opacity: 1;
+visibility: visible;
+-webkit-transition: opacity 0.24s ease-in-out;
+-moz-transition: opacity 0.24s ease-in-out;
+transition: opacity 0.24s ease-in-out;}
+.sticky{color: #000;}
+.gallery-caption{
+opacity: 1;
+visibility: visible;
+-webkit-transition: opacity 0.24s ease-in-out;
+-moz-transition: opacity 0.24s ease-in-out;
+transition: opacity 0.24s ease-in-out;}
+.bypostauthor{color:#000;}
+.alignleft
+ {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.alignright{
+    display: block;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.aligncenter
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    clear: both;
+    margin-bottom: 20px;
+}
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	height: 1px;
+	overflow: hidden;
+	position: absolute !important;
+	width: 1px;
+	/* many screen reader and browser combinations announce broken words as they would appear visually */
+	word-wrap: normal !important;
+}
+
+.screen-reader-text:focus {
+color:#000;	
+}
+
+.wp-block-image.alignfull img, 
+.wp-block-image.alignwide img {
+    width: 100%;
+}
